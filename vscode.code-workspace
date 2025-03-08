@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{   
+            "name": "root",
+			"path": "./"
+		},
+		{
+            "name": "fastapi",
+			"path": "./fastapi"
+		},
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen",
+		"terminal.integrated.env.linux": {
+			"USE_EDITABLE_PACKAGES": "1"
+		},
+	}
+}
